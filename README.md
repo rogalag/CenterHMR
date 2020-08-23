@@ -1,4 +1,6 @@
-# CenterHMR
+# CenterHMR: a bottom-up single-shot method for multi-person 3D mesh recovery from a single image
+
+ECCV 2020 3DPW Challenge Runner Up Method
 
 <p float="center">
   <img src="demo/c1_results_compressed.gif" width="49%" />
@@ -17,4 +19,4 @@
 
 Thanks for your interests! 
 
-The arxiv paper / code will be released soon ~
+The arxiv paper / demo code will be released in a few days ~
