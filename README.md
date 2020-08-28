@@ -1,5 +1,7 @@
 # CenterHMR: a bottom-up single-shot method for multi-person 3D mesh recovery from a single image
 
+Please refer to [arxiv paper](https://arxiv.org/abs/2008.12272) for details!
+
 <p float="center">
   <img src="demo/c1_results_compressed.gif" width="32%" />
   <img src="demo/c5_results_compressed.gif" width="32%" />
@@ -16,4 +18,4 @@
 
 Thanks for your interests! 
 
-The arxiv paper / demo code will be released in a few days ~
+The demo code will be released before the end of tody.
